@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amplify</string>
+    <string name="user_text_hint">Escribe aquí lo que quieras decir</string>
+    <string name="amplify_button_text">Amplificar</string>
+</resources>
